@@ -1,0 +1,5 @@
+/target
+.cargo
+versions.json
+versions.txt
+.DS_Store
